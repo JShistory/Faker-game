@@ -14,6 +14,7 @@ npm run dev
 
 # Original code
 https://github.com/paulantoine2/suika
+https://github.com/kairess?tab=repositories
 
 
 ![10_faker](https://github.com/JShistory/Faker-game/assets/98608723/dca28e46-ced5-4ba2-8608-5b1e891eee24)
